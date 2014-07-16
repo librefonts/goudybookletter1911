@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <name>
+    <namerecord nameID="0" platformID="1" platEncID="0" langID="0x0">
+      This font has been released into the public domain by its author, Barry Schwartz. This applies worldwide.&#10;&#10;In some countries this may not be legally possible; if so:&#10;&#10;Barry Schwartz grants anyone the right to use this work for any purpose, without any conditions, unless such conditions are required by law.
+    </namerecord>
+    <namerecord nameID="1" platformID="1" platEncID="0" langID="0x0">
+      Goudy Bookletter 1911
+    </namerecord>
+    <namerecord nameID="2" platformID="1" platEncID="0" langID="0x0">
+      Regular
+    </namerecord>
+    <namerecord nameID="3" platformID="1" platEncID="0" langID="0x0">
+      FontForge 2.0 : Goudy Bookletter 1911 : 6-2-2008
+    </namerecord>
+    <namerecord nameID="4" platformID="1" platEncID="0" langID="0x0">
+      Goudy Bookletter 1911
+    </namerecord>
+    <namerecord nameID="5" platformID="1" platEncID="0" langID="0x0">
+      Version 2008.02.06 
+    </namerecord>
+    <namerecord nameID="6" platformID="1" platEncID="0" langID="0x0">
+      GoudyBookletter1911
+    </namerecord>
+    <namerecord nameID="0" platformID="3" platEncID="1" langID="0x409">
+      This font has been released into the public domain by its author, Barry Schwartz. This applies worldwide.&#10;&#10;In some countries this may not be legally possible; if so:&#10;&#10;Barry Schwartz grants anyone the right to use this work for any purpose, without any conditions, unless such conditions are required by law.
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
+      Goudy Bookletter 1911
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x409">
+      Regular
+    </namerecord>
+    <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
+      FontForge 2.0 : Goudy Bookletter 1911 : 6-2-2008
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
+      Goudy Bookletter 1911
+    </namerecord>
+    <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
+      Version 2008.02.06 
+    </namerecord>
+    <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
+      GoudyBookletter1911
+    </namerecord>
+  </name>
+
+</ttFont>

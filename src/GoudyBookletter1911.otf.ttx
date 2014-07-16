@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="OTTO" ttLibVersion="2.4">
+  <GlyphOrder src="GoudyBookletter1911.otf.GlyphOrder.ttx"/>
+  <head src="GoudyBookletter1911.otf._h_e_a_d.ttx"/>
+  <hhea src="GoudyBookletter1911.otf._h_h_e_a.ttx"/>
+  <maxp src="GoudyBookletter1911.otf._m_a_x_p.ttx"/>
+  <OS_2 src="GoudyBookletter1911.otf.O_S_2f_2.ttx"/>
+  <name src="GoudyBookletter1911.otf._n_a_m_e.ttx"/>
+  <cmap src="GoudyBookletter1911.otf._c_m_a_p.ttx"/>
+  <post src="GoudyBookletter1911.otf._p_o_s_t.ttx"/>
+  <CFF src="GoudyBookletter1911.otf.C_F_F_.ttx"/>
+  <FFTM src="GoudyBookletter1911.otf.F_F_T_M_.ttx"/>
+  <GDEF src="GoudyBookletter1911.otf.G_D_E_F_.ttx"/>
+  <GPOS src="GoudyBookletter1911.otf.G_P_O_S_.ttx"/>
+  <GSUB src="GoudyBookletter1911.otf.G_S_U_B_.ttx"/>
+  <hmtx src="GoudyBookletter1911.otf._h_m_t_x.ttx"/>
+</ttFont>
