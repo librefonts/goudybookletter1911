@@ -1,0 +1,6 @@
+commit: HEAD
+process_files: [GoudyBookletter1911.ttf.ttx, src/GoudyBookletter1911.otf.ttx, src/GoudyBookletter1911.sfd,
+  src/GoudyBookletter1911-TTF.sfd]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"
